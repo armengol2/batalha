@@ -5,7 +5,7 @@ Responsável por realizar um combate entre os Pokémons dos jogadores. Recebe a 
 
 ## Diagrama de Caso de Uso
 ![Diagrama de uso drawio](https://github.com/user-attachments/assets/3895ffe2-13f0-4f4d-826d-b39c8f31107c)
+![Diagrama de uso3 drawio](https://github.com/user-attachments/assets/af4a930d-c1a6-4452-8804-5faf31a78827)
 
 ## Diagrama de Classe
 ![UML drawio](https://github.com/user-attachments/assets/949015d6-6bc2-463e-985d-b91cf009850b)
-
