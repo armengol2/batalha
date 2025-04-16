@@ -4,8 +4,7 @@
 Responsavél 
 
 ## Diagrama de Caso de Uso
-![Diagrama de uso drawio (1)](https://github.com/user-attachments/assets/a6409936-06e7-4556-a747-a18df53f3b1f)
-
+![Diagrama de uso6 drawio](https://github.com/user-attachments/assets/a609df06-9882-48ae-bbff-c0b75bc3e39c)
 ## Diagrama de Classe
 ![UML drawio](https://github.com/user-attachments/assets/949015d6-6bc2-463e-985d-b91cf009850b)
 
